@@ -2,7 +2,7 @@
 
 ### Part I: Bootstrapping Swap Curves
 
-1. Bootstrap the OIS discount factor D0(0,T) and plot the discount curve for T ∈ [0,30]
+1. Bootstrap the OIS discount factor and plot the discount curve for T ∈ [0,30]
 2. Bootstrap the LIBOR discount factor and plot the discount curve for T ∈ [0,30]
 3. Calculate the forward swap rate. 
 
